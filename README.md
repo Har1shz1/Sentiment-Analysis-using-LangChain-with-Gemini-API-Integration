@@ -20,12 +20,6 @@ A web-based tool built with LangChain, Gemini 1.5 Flash, and Gradio to analyze u
 
 Install all the required Python packages using:
 
-bash
-
-Copy
-
-Edit
-
 pip install -q --upgrade langchain-google-genai google-generativeai python-dotenv matplotlib pandas gradio
 
 ## 🔐 Setup API Key
@@ -33,19 +27,17 @@ pip install -q --upgrade langchain-google-genai google-generativeai python-doten
 This application uses Gemini 1.5 Flash from Google’s Generative AI suite. To use it, you’ll need to get an API key from Google AI Studio.
 
 ✅ Set the key in the script:
+
 Replace this line:
 
-python
-Copy
-Edit
 GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
+
 Or use a .env file:
 
-ini
-Copy
-Edit
 GOOGLE_API_KEY=your_api_key_here
-💻 How to Use
+
+## 💻 How to Use
+
 Run the script.
 
 Gradio UI will open in your browser.
@@ -62,15 +54,16 @@ A results table showing Sentiment, Emotion, and Rating.
 
 Two visual charts for insights: Sentiment Pie Chart and Rating Frequency Bar Chart.
 
-📂 Example Feedback Input
-rust
-Copy
-Edit
+## 📂 Example Feedback Input
+
 I love the intuitive design and clean UI!
 Too many bugs, I can't get anything done.
 It's okay, does the job, nothing extraordinary.
 The support team was amazing!
-🧾 Sample Output Table
+
+
+## 🧾 Sample Output Table
+
 Feedback	Sentiment	Emotion	Rating
 I love the intuitive design and clean UI!	POSITIVE	Happy	5
 Too many bugs, I can't get anything done.	NEGATIVE	Angry	1
@@ -82,9 +75,10 @@ Rating Frequency (Bar Chart)
 
 These help visualize the general tone and experience of users based on feedback.
 
-🤝 Contributing
+
+## 🤝 Contributing
 Found a bug or want to contribute new features? PRs and issues are welcome! Let's make it better together.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
