@@ -1,4 +1,4 @@
-🧠 Sentiment-Analysis-using-LangChain-with-Gemini-API-Integration
+## 🧠 Sentiment-Analysis-using-LangChain-with-Gemini-API-Integration
 A web-based tool built with LangChain, Gemini 1.5 Flash, and Gradio to analyze user feedback and extract key insights such as sentiment, emotion, and a 1–5 rating. It also provides visual visualizations to better understand user perception and experience.
 
 🚀 Features
