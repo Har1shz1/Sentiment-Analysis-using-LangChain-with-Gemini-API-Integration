@@ -61,7 +61,7 @@ GOOGLE_API_KEY=your_api_key_here
 ```
 I love the intuitive design and clean UI!
 Too many bugs, I can't get anything done.
-It's okay, does the job, nothing extraordinary.
+It's okay, does the job, nothing special.
 ```
 
 ---
