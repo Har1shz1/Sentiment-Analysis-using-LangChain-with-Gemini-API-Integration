@@ -4,7 +4,7 @@
 A web-based tool built with **LangChain**, **Gemini 1.5 Flash**, and **Gradio** to analyze user feedback and extract key insights such as sentiment, emotion, and a 1–5 rating. It also provides visual visualizations to better understand user perception and experience.
 
 --- 
-## 💻 Demo Screenshot 
+## 💻 Demo Screenshot  
 
 ![image](https://github.com/user-attachments/assets/e174a3ff-6991-4d55-a195-79a193e5cd82)
 ![image](https://github.com/user-attachments/assets/3f5bbfd6-151a-43d0-b521-2deab24110c3)
